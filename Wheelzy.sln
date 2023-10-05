@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wheelzy", "Wheelzy.csproj", "{AF699A4A-311D-42F6-BA5C-C3D1B0C915CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "..\TestProject\TestProject.csproj", "{17DA8F52-3FA3-4A2B-ADA0-84A3AA47BEA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF699A4A-311D-42F6-BA5C-C3D1B0C915CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF699A4A-311D-42F6-BA5C-C3D1B0C915CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF699A4A-311D-42F6-BA5C-C3D1B0C915CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF699A4A-311D-42F6-BA5C-C3D1B0C915CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17DA8F52-3FA3-4A2B-ADA0-84A3AA47BEA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DA8F52-3FA3-4A2B-ADA0-84A3AA47BEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DA8F52-3FA3-4A2B-ADA0-84A3AA47BEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DA8F52-3FA3-4A2B-ADA0-84A3AA47BEA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DED3ED21-9BDF-40E1-BDD4-D72DCDD6A88D}
+	EndGlobalSection
+EndGlobal
